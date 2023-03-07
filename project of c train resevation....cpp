@@ -38,8 +38,8 @@ int main()
 	printf("\t\t|                                               |\n");
 	printf("\t\t|                                               |\n");
 	printf("\t\t|              BROUGHT TO YOU BY                |\n");
-	printf("\t\t|  |PARTH MANDALE , AADITYA RAJ , VISHAL KUMAR| |\n");
-	printf("\t\t|ROLL NO - 76     ,    45        ,     38       |\n");
+	printf("\t\t|               |PARTH MANDALE|                 |\n");
+	printf("\t\t|                                               |\n");
 	printf("\t\t=================================================\n\n\n");
 		
 	    
